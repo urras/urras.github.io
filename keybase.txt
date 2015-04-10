@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/urras
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://furtrashtbh.tk
+  * I am urras (https://keybase.io/urras) on keybase.
+  * I have a public key with fingerprint 76D5 7CB6 C5ED D220 BE02  D43D 9DD9 AB20 E512 27D2
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "76d57cb6c5edd220be02d43d9dd9ab20e51227d2",
+            "host": "keybase.io",
+            "key_id": "9dd9ab20e51227d2",
+            "kid": "0101f2035f3a4f83cb1fe5f920295609a2bb8f4d6ac25a9c2f6a8b8bf2dbd344ce6a0a",
+            "uid": "36a399f278a3f74150d7d0ff47752b19",
+            "username": "urras"
+        },
+        "service": {
+            "hostname": "furtrashtbh.tk",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1428631383,
+    "expire_in": 157680000,
+    "prev": "5afac8019a1018a4ea347c096079eafa4ef42b22c7f615928388ff10ca3eef86",
+    "seqno": 14,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMIeAnicbVJpSFRBHN/tsDLKCi2TLh50mJLz5t2bHZQfOigwiU7YZt7M7D62dre3
+bzXZhAqJICLQ6CQqKIiigsL6UFmKhZllpWUmQbBYEXmUoAaWzRP71nwZ5nf95//n
+XzdptCfVe77t+ryOaQvfeJ/XrIx7Ni/M25IQcISUCr6EEKLDF7PCAWpHbSvsCD5B
+U4mimVg1FUoIhABTAIksEYMQA2EIqCJCqBEo5ArBSMx18BiMYnSJFeEYf/gtwtH/
+6EPDBBCByCCQFCYhmemSiUVGFWZAAA1FBQaCGOtMJioyoYIMEzIV6VjHDBJMJFk2
+qYoA4nHx4ThJRZJhMKjpSGKaLCqAaAQwJmuaArFouMIYtcNoD+XquG2jmFCWK3Co
+2DKp27/bxgjN4rbDBUEHB5c4IW6N2hEnYkZ2cy7oOFGfa3VKo662hGL/SIofW2HC
+p8gNxdSOWZGw4BO50nQsN1aUoa5KoqRLuQLdF7Vs6rdchaKpOuDHLUOLeaSCGDJ1
+IBqIz0hHMkWSrJnAUIFmUM7JlMkQQ2hqTBUVA+qSrjMmAhNJlDJdFdy+9oYjbkn+
+TxTgmTErEEZO3KZCWe3jnWM83lRPythR7iJ4UidM+bceCWPcUMH0nPIDOeubiw5V
+x7/kp7dX5dQ/TV49/aQg+aA2VDjUmOLt/t1ReKw8AN9+aqw61U82XvPVF1xZ/r1z
+KHX7r695FbWdjY5OJ1fXnn7s7clu65/2a9bGo/Hk8cUNlQs60y5+/AbmBNO6Vq/Z
+uqpo947E62xya/aFjgN3MseGMp7cj7UqWXJN16bSpU29B/enB3Z1f/X1vfZmvB/I
+O1m24cMn5dyx/lejVgnB+I9L84rmlyx6hCfeXdaz4nDLn+TDz3jdsxdZwXd2ZdO4
+n0ezWqYXFLb5KzJP3MvPGLzde3Zuc/vitTcHj7ysi80+M1DVt23HjZkNFxIl50lG
+b9rUbVdnXB5/MqX1LxQ8Lrk=
+=cr1g
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/urras
+
+==================================================================
